@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # spark-challenge
 
 ## Links
@@ -151,3 +152,6 @@ Create a new private static void process method that takes one argment, a String
 1. Create a git repo in your local spark-challenge folder.
 1. Add and commit all files locally.
 1. Push your code to your cloud repo.
+=======
+# maven
+>>>>>>> 6331923fae6c17bd3380740690ede8e43076be9d
