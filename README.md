@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Repo](https://github.com/denisecase/spark-challenge)
+- [Repo](https://github.com/VamshiKrishnaNuka/maven)
 
 ## Prerequisites
 
